@@ -113,4 +113,7 @@ password_validator/
 - **Pytest** — framework de testes
 - **pytest-cov** — relatório de cobertura de testes
 
+## 📸 Relatório de Cobertura
+
+![Coverage Report](coverage.png)
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/007d0a8b-b434-4aa6-ab4c-889f0cb7b67f" />
